@@ -6,14 +6,18 @@
     left: 0;
     margin: 10% auto;
     width: 500px;
+    height: 500px;
     text-align: center;
 }
 
 .col {
     border: 1px solid rebeccapurple;
     padding: 2px;
+    height: 40px;
+    width: 40px;
 }
 
 body {
     text-align: center;
+    background-color: whitesmoke;
 }
