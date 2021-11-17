@@ -2,7 +2,7 @@
 A simple web application which challenges you to fill in the grid
 
 # Landing page
-When you fire up the webpage, you'll be greeted with a grid filled the 🎯 emoji. The challenge is to fill in the cells that contain the 🎯 emoji, which you can do by hovering your cursor over.
+When you fire up the webpage, you'll be greeted with a grid filled with the 🎯 emoji. The challenge is to fill in the cells that contain the 🎯 emoji, which you can do by hovering your cursor over.
 
 ![Landing page](images/landing.png)
 
