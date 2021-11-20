@@ -1,5 +1,6 @@
 # Fill the Grid
-A simple web application which challenges you to fill in the grid
+A simple web application which challenges you to fill in the grid.
+[Live demo](https://moostofa.github.io/Fill-the-Grid/)
 
 # Landing page
 When you fire up the webpage, you'll be greeted with a grid filled with the 🎯 emoji. The challenge is to fill in the cells that contain the 🎯 emoji, which you can do by hovering your cursor over.
